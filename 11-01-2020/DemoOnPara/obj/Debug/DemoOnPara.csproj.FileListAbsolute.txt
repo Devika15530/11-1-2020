@@ -1,0 +1,6 @@
+E:\devika\C#\11-01-2020\DemoOnPara\bin\Debug\DemoOnPara.exe.config
+E:\devika\C#\11-01-2020\DemoOnPara\bin\Debug\DemoOnPara.exe
+E:\devika\C#\11-01-2020\DemoOnPara\bin\Debug\DemoOnPara.pdb
+E:\devika\C#\11-01-2020\DemoOnPara\obj\Debug\DemoOnPara.csprojAssemblyReference.cache
+E:\devika\C#\11-01-2020\DemoOnPara\obj\Debug\DemoOnPara.exe
+E:\devika\C#\11-01-2020\DemoOnPara\obj\Debug\DemoOnPara.pdb

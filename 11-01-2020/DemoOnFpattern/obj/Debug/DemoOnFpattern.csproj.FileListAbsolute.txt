@@ -1,0 +1,6 @@
+E:\devika\C#\11-01-2020\DemoOnFpattern\bin\Debug\DemoOnFpattern.exe.config
+E:\devika\C#\11-01-2020\DemoOnFpattern\bin\Debug\DemoOnFpattern.exe
+E:\devika\C#\11-01-2020\DemoOnFpattern\bin\Debug\DemoOnFpattern.pdb
+E:\devika\C#\11-01-2020\DemoOnFpattern\obj\Debug\DemoOnFpattern.csprojAssemblyReference.cache
+E:\devika\C#\11-01-2020\DemoOnFpattern\obj\Debug\DemoOnFpattern.exe
+E:\devika\C#\11-01-2020\DemoOnFpattern\obj\Debug\DemoOnFpattern.pdb

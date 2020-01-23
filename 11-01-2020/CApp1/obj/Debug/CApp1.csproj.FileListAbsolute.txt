@@ -1,0 +1,6 @@
+E:\devika\C#\11-01-2020\CApp1\obj\Debug\CApp1.csprojAssemblyReference.cache
+E:\devika\C#\11-01-2020\CApp1\bin\Debug\CApp1.exe.config
+E:\devika\C#\11-01-2020\CApp1\bin\Debug\CApp1.exe
+E:\devika\C#\11-01-2020\CApp1\bin\Debug\CApp1.pdb
+E:\devika\C#\11-01-2020\CApp1\obj\Debug\CApp1.exe
+E:\devika\C#\11-01-2020\CApp1\obj\Debug\CApp1.pdb

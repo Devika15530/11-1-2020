@@ -1,0 +1,6 @@
+E:\devika\C#\11-01-2020\DemoIndexer\bin\Debug\DemoIndexer.exe.config
+E:\devika\C#\11-01-2020\DemoIndexer\bin\Debug\DemoIndexer.exe
+E:\devika\C#\11-01-2020\DemoIndexer\bin\Debug\DemoIndexer.pdb
+E:\devika\C#\11-01-2020\DemoIndexer\obj\Debug\DemoIndexer.csprojAssemblyReference.cache
+E:\devika\C#\11-01-2020\DemoIndexer\obj\Debug\DemoIndexer.exe
+E:\devika\C#\11-01-2020\DemoIndexer\obj\Debug\DemoIndexer.pdb
